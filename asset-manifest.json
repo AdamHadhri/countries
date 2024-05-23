@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/countries/static/css/main.f193f0bf.css",
-    "main.js": "/countries/static/js/main.fbb88daa.js",
+    "main.js": "/countries/static/js/main.a4fcf0cb.js",
     "static/js/885.c7056231.chunk.js": "/countries/static/js/885.c7056231.chunk.js",
     "static/js/453.62f49430.chunk.js": "/countries/static/js/453.62f49430.chunk.js",
     "static/media/VAG Rounded Bold.ttf": "/countries/static/media/VAG Rounded Bold.0f46728a02012498d54e.ttf",
@@ -12,12 +12,12 @@
     "static/media/tap.mp3": "/countries/static/media/tap.ac10e315a9e58a1e3c82.mp3",
     "index.html": "/countries/index.html",
     "main.f193f0bf.css.map": "/countries/static/css/main.f193f0bf.css.map",
-    "main.fbb88daa.js.map": "/countries/static/js/main.fbb88daa.js.map",
+    "main.a4fcf0cb.js.map": "/countries/static/js/main.a4fcf0cb.js.map",
     "885.c7056231.chunk.js.map": "/countries/static/js/885.c7056231.chunk.js.map",
     "453.62f49430.chunk.js.map": "/countries/static/js/453.62f49430.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f193f0bf.css",
-    "static/js/main.fbb88daa.js"
+    "static/js/main.a4fcf0cb.js"
   ]
 }
